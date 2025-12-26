@@ -1,8 +1,8 @@
 [Flatpak Ref]
 Title=Open Authenticator
 Name=app.openauthenticator.OpenAuthenticator
-Url=https://flatpak.openauthenticator.app/openauthenticator.flatpakrepo
-SuggestRemoteName=Open Authenticator Flatpaks
+Url=https://flatpak.openauthenticator.app/repo/
+SuggestRemoteName=openauthenticator
 Homepage=https://openauthenticator.app
 Icon=https://openauthenticator.app/images/logo.svg
 RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
