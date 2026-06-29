@@ -1,5 +1,5 @@
 [Flatpak Repo]
-Title=Open Authenticator Flatpak
+Title=Open Authenticator Flatpaks
 Name=app.openauthenticator.OpenAuthenticator
 Url=https://flatpak.openauthenticator.app/repo
 DefaultBranch=master
